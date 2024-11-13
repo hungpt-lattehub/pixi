@@ -1,0 +1,36 @@
+{"frames": {
+
+"Dizzy_000.png":
+{
+	"frame": {"x":319,"y":1,"w":311,"h":385},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":116,"w":311,"h":385},
+	"sourceSize": {"w":512,"h":512}
+},
+"Dizzy_001.png":
+{
+	"frame": {"x":632,"y":1,"w":311,"h":385},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":116,"w":311,"h":385},
+	"sourceSize": {"w":512,"h":512}
+},
+"Dizzy_002.png":
+{
+	"frame": {"x":1,"y":1,"w":316,"h":392},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":109,"w":316,"h":392},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dizzy.webp",
+	"format": "RGBA8888",
+	"size": {"w":944,"h":394},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d70ba6d69d7876a39d350352bd02b0f9:cdf54292b462d81049354306c82a01e5:057ca59acdab499cf5ac223c56e1a312$"
+}
+}

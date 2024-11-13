@@ -1,0 +1,92 @@
+{"frames": {
+
+"Walk_000.png":
+{
+	"frame": {"x":1,"y":412,"w":245,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":92,"w":245,"h":406},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_001.png":
+{
+	"frame": {"x":248,"y":1,"w":245,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":89,"w":245,"h":408},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_002.png":
+{
+	"frame": {"x":248,"y":821,"w":245,"h":405},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":87,"w":245,"h":405},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_003.png":
+{
+	"frame": {"x":1,"y":820,"w":245,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":84,"w":245,"h":406},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_004.png":
+{
+	"frame": {"x":248,"y":411,"w":245,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":88,"w":245,"h":408},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_005.png":
+{
+	"frame": {"x":248,"y":1634,"w":245,"h":401},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":92,"w":245,"h":401},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_006.png":
+{
+	"frame": {"x":1,"y":1228,"w":245,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":89,"w":245,"h":404},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_007.png":
+{
+	"frame": {"x":248,"y":1228,"w":245,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":87,"w":245,"h":404},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_008.png":
+{
+	"frame": {"x":1,"y":1634,"w":245,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":84,"w":245,"h":404},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_009.png":
+{
+	"frame": {"x":1,"y":1,"w":245,"h":409},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":88,"w":245,"h":409},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walk.webp",
+	"format": "RGBA8888",
+	"size": {"w":494,"h":2039},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:59fa57e6f60c990c4132e6626feabc82:e91c448f243a1cca42549f8d238e9cc4:e902afa021963cf3062de6d2bd2c07be$"
+}
+}

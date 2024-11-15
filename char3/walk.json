@@ -1,0 +1,92 @@
+{"frames": {
+
+"Walk_000.png":
+{
+	"frame": {"x":1,"y":1,"w":258,"h":430},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":63,"w":258,"h":430},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_001.png":
+{
+	"frame": {"x":1,"y":261,"w":258,"h":432},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":61,"w":258,"h":432},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_002.png":
+{
+	"frame": {"x":433,"y":1,"w":258,"h":429},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":58,"w":258,"h":429},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_003.png":
+{
+	"frame": {"x":1,"y":521,"w":258,"h":431},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":55,"w":258,"h":431},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_004.png":
+{
+	"frame": {"x":1,"y":781,"w":258,"h":433},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":59,"w":258,"h":433},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_005.png":
+{
+	"frame": {"x":435,"y":261,"w":258,"h":425},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":63,"w":258,"h":425},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_006.png":
+{
+	"frame": {"x":434,"y":521,"w":258,"h":427},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":61,"w":258,"h":427},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_007.png":
+{
+	"frame": {"x":436,"y":781,"w":258,"h":428},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":58,"w":258,"h":428},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_008.png":
+{
+	"frame": {"x":1,"y":1041,"w":258,"h":427},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":55,"w":258,"h":427},
+	"sourceSize": {"w":512,"h":512}
+},
+"Walk_009.png":
+{
+	"frame": {"x":430,"y":1041,"w":258,"h":434},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":59,"w":258,"h":434},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walk.webp",
+	"format": "RGBA8888",
+	"size": {"w":865,"h":1300},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c2b8017c1cf9d3130959c1c31e8bf8b5:5475cd9dc531ed7ec2363ed39f3627e3:e902afa021963cf3062de6d2bd2c07be$"
+}
+}

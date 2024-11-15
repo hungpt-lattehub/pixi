@@ -1,0 +1,44 @@
+{"frames": {
+
+"Sliding_000.png":
+{
+	"frame": {"x":375,"y":277,"w":280,"h":371},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":119,"w":280,"h":371},
+	"sourceSize": {"w":512,"h":512}
+},
+"Sliding_001.png":
+{
+	"frame": {"x":1,"y":1,"w":272,"h":380},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":119,"w":272,"h":380},
+	"sourceSize": {"w":512,"h":512}
+},
+"Sliding_002.png":
+{
+	"frame": {"x":1,"y":275,"w":274,"h":372},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":119,"w":274,"h":372},
+	"sourceSize": {"w":512,"h":512}
+},
+"Sliding_003.png":
+{
+	"frame": {"x":383,"y":1,"w":274,"h":371},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":119,"w":274,"h":371},
+	"sourceSize": {"w":512,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sliding.webp",
+	"format": "RGBA8888",
+	"size": {"w":755,"h":558},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:43087ac31a5f7fd0e05303abe8587272:6b0e5251aeb77cd1445c1353bbdc93a3:4e54583cac8a79c7466136fc7649007a$"
+}
+}
